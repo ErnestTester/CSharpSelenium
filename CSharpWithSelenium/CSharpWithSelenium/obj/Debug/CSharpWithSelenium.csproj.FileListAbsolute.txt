@@ -1,0 +1,17 @@
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\obj\Debug\CSharpWithSelenium.csproj.AssemblyReference.cache
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\obj\Debug\CSharpWithSelenium.csproj.CoreCompileInputs.cache
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\selenium-manager\linux\selenium-manager
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\selenium-manager\macos\selenium-manager
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\selenium-manager\windows\selenium-manager.exe
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\CSharpWithSelenium.exe.config
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\CSharpWithSelenium.exe
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\CSharpWithSelenium.pdb
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\Newtonsoft.Json.dll
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\WebDriver.dll
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\WebDriver.Support.dll
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\Newtonsoft.Json.xml
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\WebDriver.xml
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\bin\Debug\WebDriver.Support.xml
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\obj\Debug\CSharpWi.F4776A28.Up2Date
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\obj\Debug\CSharpWithSelenium.exe
+C:\Users\olaez\source\repos\CSharpSelenium\CSharpWithSelenium\CSharpWithSelenium\obj\Debug\CSharpWithSelenium.pdb
